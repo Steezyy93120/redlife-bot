@@ -5,7 +5,7 @@ module.exports.run = async (bot, message, args) => {
     let botmessage = args.join(" ");
     let embed = new Discord.MessageEmbed()
     .setColor("#FF0000")
-    .setTitle("<:security:797385679801810944> Annonce:")
+    .setTitle(":bell: Annonce:")
     .setDescription(args.join(" "))
     .setFooter(`Annonce crée par ${message.author.username}`, message.author.displayAvatarURL())
     .setTimestamp();
