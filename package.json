@@ -1,0 +1,39 @@
+{
+  "name": "yoka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yoka.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mathjs": "^6.0.7",
+    "FileSync": "^1.0.1",
+    "async": "^3.2.0",
+    "avatar": "^0.1.0",
+    "db": "^3.3.0",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "fund": "^1.0.0",
+    "gamedig": "^2.0.23",
+    "generate-password": "^1.5.1",
+    "handler": "^0.1.3",
+    "humanize-duration": "^3.24.0",
+    "lowdb": "^1.0.0",
+    "moment": "^2.29.1",
+    "node-superfetch": "^0.1.10",
+    "nodejs": "0.0.0",
+    "npm": "^6.14.9",
+    "parse-duration": "^0.4.4",
+    "password-generator": "^2.3.2",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "steam-server-status": "^1.0.2",
+    "superagent": "^6.1.0",
+    "xp": "^1.0.1"
+  }
+}
